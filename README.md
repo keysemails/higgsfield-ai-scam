@@ -15,7 +15,13 @@ A comprehensive collection of research, evidence, and documentation exposing all
 
 ## The Subscription Scam & Mass Bans
 
+![Account Suspended, Battery System, and Trustpilot Reviews](images/account-suspended-battery-reviews.jpg)
+*Account suspensions, the "battery" throttle system, and Trustpilot backlash*
+
 ### The Bait: "Unlimited" Plans
+
+![Higgsfield Unlimited Plan Pricing - 80% OFF Bait](images/unlimited-plan-bait-pricing.jpg)
+*Higgsfield's "Nano Banana Pro 365 Unlimited - 80% OFF" Christmas pricing page*
 
 Higgsfield offered unlimited creativity plans wrapped in Black Friday and holiday discounts. Thousands of creators purchased what they believed was an unlimited access tool. The promise: an annual subscription for "unlimited banana" featuring eight simultaneous generations.
 
@@ -99,6 +105,9 @@ In prior testing, 10 out of 13 Higgsfield apps completely collapsed. The three t
 
 ### Camera Tools: "Legendary" Failures
 
+![Higgsfield Interface Under Investigation](images/higgsfield-interface-investigation.jpg)
+*Higgsfield's interface during independent product testing*
+
 Higgsfield markets their "DP camera tools" and "legendary camera moves" as their flagship feature. Here's what actually happens:
 
 #### 360 Orbit
@@ -130,6 +139,12 @@ Free model: logical camera glide, character stays normal. Higgsfield: artifacts 
 
 ### Camera Tools Summary
 
+![AI Body Distortion Glitch](images/ai-body-distortion-glitch.jpg)
+*Higgsfield camera tool output: body and face distortion artifacts*
+
+![Face Melting Artifact](images/face-melting-artifact.jpg)
+*Higgsfield generation showing severe face-melting artifacts*
+
 Every time you touch their camera tools, the subject changes race, age, and sometimes gender mid-shot. They are not offering cinematic cameras for filmmakers - they're offering a random character generator with motion blur. Only about 1 out of 10 camera effects worked even remotely okay, and even when the camera worked, the faces melted, making results completely unusable.
 
 ### Effects & LoRAs: Repackaged Free Tools
@@ -160,9 +175,15 @@ Their business model is essentially reselling other companies' technology under 
 
 ### The Price Markup
 
+![Price Comparison: Higgsfield vs Kling - 4.4x Markup](images/price-comparison-4x-markup.jpg)
+*Price breakdown: Kling credit costs $0.0109 vs Higgsfield at $0.0483 — a ~4.4x markup for the same underlying model*
+
 After converting all Higgsfield subscriptions and credits into real money and comparing with Kling's direct pricing: **Higgsfield charges approximately 4.5 times more than using Kling directly** for the same underlying technology.
 
 ### Their Native Models Are Abandoned
+
+![Higgsfield Standard Model Test](images/higgsfield-standard-model-test.jpg)
+*Higgsfield's own "Higgsfield Standard" model with "Jib Down" preset — native model quality remains unchanged*
 
 It's been almost a year since launch and the quality of their native models is exactly the same. The only thing they invest energy into is marketing and scammy promises that mislead people.
 
@@ -199,6 +220,9 @@ The same results can be achieved for free by finding reference layouts on Pinter
 ## Ethical Violations & Exploitation
 
 ### 1. Non-Consensual Sexual Content
+
+![Higgsfield Vibe-Motion: Sydney Sweeney's Breast Growth Progression](images/tweet-article-cover.jpg)
+*Higgsfield's own Vibe-Motion branded content: "Sydney Sweeney's Breast Growth Progression" — non-consensual sexual objectification of a real actress*
 
 This is alleged to be their core business model:
 - Posted content titled "Sydney Sweeney's Breast Growth Progression" - a real actress, no consent, sexual objectification for engagement
@@ -305,6 +329,14 @@ The AI art community deserves better than companies that promote the worst in an
 - LinkedIn employment verification
 - Pricing analysis comparing Higgsfield vs. direct model access (Kling, Minimax)
 - Preserved copies of deleted content
+
+---
+
+## Resources
+
+- [Higgsfield AI: A Company Built on Rage Bait Content, Stolen Likenesses, and Sexual Exploitation](https://x.com/BLVCKLIGHTai/status/2018762826190622805) — @BLVCKLIGHTai on X
+- [Higgsfield AI Exposed: The Scam Behind the Hype (Don't Buy This)](https://www.youtube.com/watch?v=JlnUEU0P-d4) — Yaroflasher
+- [Higgsfield's Unlimited Plan Scam Exposed | Final Chapter](https://www.youtube.com/watch?v=7Zj10P0Sa1k) — Yaroflasher
 
 ---
 
