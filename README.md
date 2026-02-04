@@ -224,6 +224,12 @@ The same results can be achieved for free by finding reference layouts on Pinter
 ![Higgsfield Vibe-Motion: Sydney Sweeney's Breast Growth Progression](images/tweet-article-cover.jpg)
 *Higgsfield's own Vibe-Motion branded content: "Sydney Sweeney's Breast Growth Progression" — non-consensual sexual objectification of a real actress*
 
+![Higgsfield Bound and Gagged Marketing Content](images/higgsfield-bound-gagged-content.jpeg)
+*Higgsfield's official Instagram: marketing "UNLIMITED Seedance 1.5 PRO" with imagery of a woman bound and gagged in a kitchen*
+
+![Higgsfield Threatening Imagery in Marketing](images/higgsfield-threatening-imagery.jpeg)
+*Higgsfield's official Instagram: promoting "Banana Inpaint" using imagery depicting a young woman in a threatening scenario*
+
 This is alleged to be their core business model:
 - Posted content titled "Sydney Sweeney's Breast Growth Progression" - a real actress, no consent, sexual objectification for engagement
 - Generated real actors placed in sex scenes without consent
@@ -240,6 +246,12 @@ When caught, they delete the evidence:
 
 ### 3. Internal Content Repository
 
+![Higgsfield CPP Folder with Deepfakes](images/higgsfield-cpp-folder-deepfakes.jpeg)
+*Higgsfield's internal Google Drive "CPP" folder — containing deepfake videos of Zuckerberg, Trump, random people, and children's characters like Peppa Pig*
+
+![Higgsfield Trump Deepfake](images/higgsfield-deepfake-trump.jpeg)
+*A deepfake from the CPP folder: Trump depicted in a fabricated scenario, bearing the Higgsfield AI watermark*
+
 Reports describe an internal drive containing a folder labeled "CPP" full of deepfakes of famous people depicted with down syndrome - including Zuckerberg, Trump, Musk, random interview subjects, and children's characters like Peppa Pig. These were deemed too extreme even for the company to post publicly.
 
 ### 4. Sexualization of Children's Content
@@ -247,6 +259,9 @@ Reports describe an internal drive containing a folder labeled "CPP" full of dee
 They took Pinocchio, a children's movie, and produced sexual content from it featuring characters like Jeffrey Epstein. They are actively taking content meant for children and making it sexual, creating a pipeline that normalizes the sexualization of children's media.
 
 ### 5. Racist Deepfakes
+
+![Higgsfield Merge Ethnicities Post](images/higgsfield-merge-ethnicities-post.jpeg)
+*Higgsfield's official Instagram: "merge ethnicities. Hybridize species. Build twins. Create bodies that don't exist in nature." — commodifying race as a content generation feature*
 
 They generate racist content that exploits racial stereotypes and harmful dynamics.
 
@@ -259,6 +274,12 @@ They created a feature and called it "Steal" - openly signaling their stance on 
 Their marketing strategy includes posting content like "AI DESTROYED REAL JOBS" to farm engagement from both sides, profiting off people's fear and anxiety about their livelihoods while contributing nothing but exploitation.
 
 ### 8. Predatory Addiction Mechanics
+
+![Higgsfield Black Friday No Restrictions Ad](images/higgsfield-black-friday-no-restrictions.jpeg)
+*Higgsfield's Black Friday tweet: "UNLIMITED in 4K with 65% OFF... with NO restrictions" + "For 12 hours: retweet & comment for FREE 350 credits"*
+
+![Higgsfield Holiday Sale FOMO](images/higgsfield-holiday-sale-fomo.jpeg)
+*Higgsfield's holiday tweet: "For THREE days only: up to 67% price drop on ALL plans AND UNLIMITED generations" + "For 9 hours: Retweet & Reply & Quote to claim 365 free credits in your DMs"*
 
 Every post follows casino psychology and mobile game addiction tactics:
 - "For 12 hours ONLY: retweet for FREE credits!"
